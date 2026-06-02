@@ -4,13 +4,8 @@ title: Support
 
 # Quotie — Support
 
-Need help, found a bug, or have a quote suggestion? We'd love to hear from you.
-
-## Contact
-
-**Email:** [jordan.akaby@gmail.com](mailto:jordan.akaby@gmail.com)
-
-We typically reply within a couple of days.
+Most questions are answered below. If you still need help or want to send
+feedback or a quote suggestion, use the feedback form linked at the bottom.
 
 ## Frequently asked
 
@@ -21,13 +16,24 @@ No. Quotie works fully offline with no sign-up. Your favorites, streaks, and pro
 Leaderboards use Apple's Game Center. Connect Game Center from the *You* tab to compete on Total XP and your longest Endless run. Your scores stay with your Apple ID; we don't collect them.
 
 **Where do the quotes come from?**
-Every quote is in the public domain and carries a verified source. We removed anything we couldn't confirm — no misattributions, no made-up "famous" quotes.
+Every quote is in the public domain and carries a verified source. We removed anything we couldn't confirm, so there are no misattributions or made-up "famous" quotes.
 
 **Is Quotie free?**
 Yes. Quotie is free with no ads.
 
 **How do I turn notifications on or off?**
 Settings → Notifications. You can set a daily quote schedule and an optional daily-challenge reminder, or turn them off entirely.
+
+**A quote looks wrong or is misattributed. What do I do?**
+Please tell us through the feedback form below with the quote and author. We take sourcing seriously and will review it.
+
+## Contact &amp; feedback
+
+Send questions, bug reports, or quote suggestions through our feedback form:
+
+**[Open the feedback form](FEEDBACK_FORM_URL)**
+
+We read every message.
 
 ## Privacy
 
