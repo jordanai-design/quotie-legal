@@ -31,7 +31,7 @@ Please tell us through the feedback form below with the quote and author. We tak
 
 Send questions, bug reports, or quote suggestions through our feedback form:
 
-**[Open the feedback form](FEEDBACK_FORM_URL)**
+**[Open the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdkFJJbo9Pgrmr6pRYMxgf8GIn3uFU2nnPN68Amnuf7d8zNwQ/viewform)**
 
 We read every message.
 
